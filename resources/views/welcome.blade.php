@@ -11,12 +11,13 @@
             }
 
             body {
-                margin: 0;
+                margin: 80;
                 padding: 0;
                 width: 100%;
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
+                background-color: #05dc66;
             }
 
             .container {
